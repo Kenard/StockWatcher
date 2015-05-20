@@ -12,7 +12,6 @@
   <!-- Inherit the default GWT style sheet.  You can change       -->
   <!-- the theme of your GWT application by uncommenting          -->
   <!-- any one of the following lines.                            -->
-  <!-- one of 4				                                     -->
   <!-- <inherits name='com.google.gwt.user.theme.clean.Clean'/>  -->
   <inherits name='com.google.gwt.user.theme.standard.Standard'/>
   <!-- <inherits name='com.google.gwt.user.theme.chrome.Chrome'/> -->
